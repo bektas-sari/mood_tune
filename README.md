@@ -55,7 +55,7 @@ This project is licensed under the MIT License.
 
 ---
 
-> "Let your mood guide the music."
+
 
 
 
