@@ -1,6 +1,7 @@
-# Mood Tune 🎵
+# Mood Tune 🎵 (Flutter APP)
 
-**Mood Tune** is a Flutter application that recommends music based on your current mood. Select one of nine expressive emojis and receive personalized song suggestions. The app features a clean, modern UI with soft color transitions and intuitive navigation.
+**Mood Tune** is a Flutter application that recommends music based on your current mood. Select one of nine expressive emojis and receive personalized song suggestions. 
+The app features a clean, modern UI with soft color transitions and intuitive navigation.
 
 ## ✨ Features
 
