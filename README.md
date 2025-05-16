@@ -26,7 +26,7 @@ The app features a clean, modern UI with soft color transitions and intuitive na
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/mood_tune.git
+git clone https://github.com/bektas-sari/mood_tune.git
 cd mood_tune
 flutter pub get
 flutter run
