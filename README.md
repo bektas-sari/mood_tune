@@ -63,7 +63,7 @@ This project is licensed under the MIT License.
 - **Researchgate:** [researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3)  
 - **Academia:** [independent.academia.edu/bektassari](https://independent.academia.edu/bektassari)
 
-  ```
+---
 
 
 
